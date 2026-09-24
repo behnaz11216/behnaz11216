@@ -1,4 +1,4 @@
-# Hi, I'm Behnaz Mohammadi 
+# Behnaz Mohammadi 
 
 ### AI Engineer & Data Scientist | Generative AI, LLMs, RAG & Machine Learning
 
