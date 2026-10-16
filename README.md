@@ -24,7 +24,7 @@ My work focuses on **Generative AI, Retrieval-Augmented Generation (RAG), conver
 
 **Programming & Data**
 
-Python • SQL • JavaScript • Pandas • NumPy • Scikit-learn
+Python • SQL • Pandas • NumPy • Scikit-learn
 
 **Machine Learning & AI**
 
